@@ -1,0 +1,8 @@
+Flask
+transformers
+youtube-transcript-api
+beautifulsoup4
+requests
+pytube
+nltk
+openai
